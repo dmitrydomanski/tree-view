@@ -1,0 +1,56 @@
+{
+    "id": 0,
+    "name": "Victor",
+    "parent": "",
+    "children": [
+        {
+            "id": 1,
+            "name": "Andrey",
+            "parent": "Victor",
+            "children": [
+                {
+                    "id": 2,
+                    "name": "Dmitry",
+                    "parent": "Andrey",
+                    "children": [
+                        {
+                            "id": 3,
+                            "name": "Vera",
+                            "parent": "Dmitry"
+                        },
+                        {
+                            "id": 4,
+                            "name": "Adam",
+                            "parent": "Dmitry"
+                        },
+                        {
+                            "id": 5,
+                            "name": "Daniel",
+                            "parent": "Dmitry"
+                        },
+                        {
+                            "id": 6,
+                            "name": "Roza",
+                            "parent": "Dmitry"
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "Konstantin",
+                    "children": [
+                        {
+                            "id": 8,
+                            "name": "Anna",
+                            "parent": "Konstantin"
+                        },
+                        {
+                            "id": 9,
+                            "name": "Konstantin"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
